@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-	cout << "Come as you are" << endl;
+	cout << "Creeping death" << endl;
 
 	return 0;
 }

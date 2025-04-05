@@ -1,0 +1,6 @@
+﻿  PAR_Lab2.cpp
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(37,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(40,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(64,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(67,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PAR_Lab2.vcxproj -> D:\kpi\KPI PAR\PAR_Lab2\x64\Debug\PAR_Lab2.exe

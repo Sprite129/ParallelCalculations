@@ -1,0 +1,11 @@
+﻿  PAR_Lab2.cpp
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(43,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(47,73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(79,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\kpi\KPI PAR\PAR_Lab2\PAR_Lab2\PAR_Lab2.cpp(83,73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  5 of 268 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PAR_Lab2.vcxproj -> D:\kpi\KPI PAR\PAR_Lab2\x64\Release\PAR_Lab2.exe

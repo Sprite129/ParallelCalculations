@@ -1,0 +1,8 @@
+﻿  PAR_Lab4_client.cpp
+D:\kpi\KPI PAR\PAR_Lab4_folder\PAR_Lab4_client\PAR_Lab4_client\PAR_Lab4_client.cpp(12,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  118 of 123 functions (95.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PAR_Lab4_client.vcxproj -> D:\kpi\KPI PAR\PAR_Lab4_folder\PAR_Lab4_client\x64\Release\PAR_Lab4_client.exe

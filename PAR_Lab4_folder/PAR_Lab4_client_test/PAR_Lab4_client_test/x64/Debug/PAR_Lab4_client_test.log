@@ -1,0 +1,3 @@
+﻿  PAR_Lab4_client_test.cpp
+D:\kpi\KPI PAR\PAR_Lab4_folder\PAR_Lab4_client_test\PAR_Lab4_client_test\PAR_Lab4_client_test.cpp(13,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PAR_Lab4_client_test.vcxproj -> D:\kpi\KPI PAR\PAR_Lab4_folder\PAR_Lab4_client_test\x64\Debug\PAR_Lab4_client_test.exe

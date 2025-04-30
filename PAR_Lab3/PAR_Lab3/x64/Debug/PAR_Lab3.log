@@ -1,0 +1,4 @@
+﻿  PAR_Lab3.cpp
+D:\kpi\KPI PAR\PAR_Lab3\PAR_Lab3\PAR_Lab3.cpp(85,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\kpi\KPI PAR\PAR_Lab3\PAR_Lab3\PAR_Lab3.cpp(252,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PAR_Lab3.vcxproj -> D:\kpi\KPI PAR\PAR_Lab3\x64\Debug\PAR_Lab3.exe
